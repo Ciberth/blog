@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Ciberth&#39;s Blog</title>
+        <link>http://ciberth.be/</link>
+        <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
+        <generator>Hugo 0.71.0 https://gohugo.io/</generator>
+        
+            <language>en-us</language>
+        
+        
+            <managingEditor>notok_example@example_notok.com (Ciberth)</managingEditor>
+        
+        
+            <webMaster>notok_example@example_notok.com (Ciberth)</webMaster>
+        
+        
+            <copyright>[© Ciberth.be](/license/)</copyright>
+        
+        <lastBuildDate>Sat, 23 May 2020 21:20:03 &#43;0200</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="http://ciberth.be/rss.xml" />
+        
+        
+    </channel>
+</rss>
